@@ -35,16 +35,16 @@ qualifications %>%
   select(`qualification-type`, everything()) %>%
   write_tsv(here("data", "qualification-type.tsv"), na = "")
 
-# qualification-sector-subject-area
+# qualification-subject
 qualifications %>%
   rename(name = `Qualification SSA`) %>%
   distinct(name) %>%
   arrange(name) %>%
-  mutate(`qualification-sector-subject-area` = row_number() + 10,
+  mutate(`qualification-subject` = row_number() + 10,
          `start-date` = NA,
          `end-date` = NA) %>%
-  select(`qualification-sector-subject-area`, everything()) %>%
-  write_tsv(here("data", "qualification-sector-subject-area.tsv"), na = "")
+  select(`qualification-subject`, everything()) %>%
+  write_tsv(here("data", "qualification-subject.tsv"), na = "")
 
 # qualification-assessment-method
 qualifications %>%
