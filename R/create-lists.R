@@ -59,6 +59,7 @@ qualifications %>%
          `start-date` = NA,
          `end-date` = NA) %>%
   select(`qualification-assessment-method`, everything()) %>%
+  filter(!is.na(name)) %>%
   write_tsv(here("data", "qualification-assessment-method.tsv"), na = "")
 
 # Not sure whether this is a thing
