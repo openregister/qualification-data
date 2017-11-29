@@ -1,11 +1,17 @@
 qualification-level	name	start-date	end-date
-11	Entry Level		
-12	Level 1		
-13	Level 1/2		
-14	Level 2		
-15	Level 3		
-16	Level 4		
-17	Level 5		
-18	Level 6		
-19	Level 7		
-20	Level 8		
+EntryLevel	Entry Level		
+Entry1	Entry 1		
+Entry2	Entry 2		
+Entry3	Entry 3		
+Entry1_2	Entry 1,2		
+Entry2_3	Entry 2,3		
+Entry1_2_3	Entry 1,2,3		
+Level1	Level 1		
+Level1_2	Level 1/2		
+Level2	Level 2		
+Level3	Level 3		
+Level4	Level 4		
+Level5	Level 5		
+Level6	Level 6		
+Level7	Level 7		
+Level8	Level 8		

@@ -1,51 +1,66 @@
-qualification-subject	name	start-date	end-date
-11	01.1 Medicine and Dentistry		
-12	01.2 Nursing and subjects and vocations allied to medicine		
-13	01.3 Health and social care		
-14	01.4 Public services		
-15	01.5 Child development and well-being		
-16	02.1 Science		
-17	02.2 Mathematics and statistics		
-18	03.1 Agriculture		
-19	03.2 Horticulture and forestry		
-20	03.3 Animal care and veterinary science		
-21	03.4 Environmental conservation		
-22	04.1 Engineering		
-23	04.2 Manufacturing technologies		
-24	04.3 Transportation operations and maintenance		
-25	05.1 Architecture		
-26	05.2 Building and construction		
-27	05.3 Urban, rural and regional planning		
-28	06.1 ICT practitioners		
-29	06.2 ICT for users		
-30	07.1 Retailing and wholesaling		
-31	07.2 Warehousing and distribution		
-32	07.3 Service enterprises		
-33	07.4 Hospitality and catering		
-34	08.1 Sport, leisure and recreation		
-35	08.2 Travel and tourism		
-36	09.1 Performing arts		
-37	09.2 Crafts, creative arts and design		
-38	09.3 Media and communication		
-39	09.4 Publishing and information services		
-40	10.1 History		
-41	10.2 Archaeology and archaeological sciences		
-42	10.3 Philosophy		
-43	10.4 Theology and religious studies		
-44	11.1 Geography		
-45	11.2 Sociology and social policy		
-46	11.3 Politics		
-47	11.4 Economics		
-48	11.5 Anthropology		
-49	12.1 Languages, literature and culture of the British Isles		
-50	12.2 Other languages, literature and culture		
-51	12.3 Linguistics		
-52	13.1 Teaching and lecturing		
-53	13.2 Direct learning support		
-54	14.1 Foundations for learning and life		
-55	14.2 Preparation for work		
-56	15.1 Accounting and finance		
-57	15.2 Administration		
-58	15.3 Business management		
-59	15.4 Marketing and sales		
-60	15.5 Law and legal services		
+qualification-subject	parent-qualification-subject	name	start-date	end-date
+01		Health, Public Services and Care		
+02		Science and Mathematics		
+03		Agriculture, Horticulture and Animal Care		
+04		Engineering and Manufacturing Technologies		
+05		Construction, Planning and the Built Environment		
+06		Information and Communication Technology		
+07		Retail and Commercial Enterprise		
+08		Leisure, Travel and Tourism		
+09		Arts, Media and Publishing		
+10		History, Philosophy and Theology		
+11		Social Sciences		
+12		Languages, Literature and Culture		
+13		Education and Training		
+14		Preparation for Life and Work		
+15		Business, Administration and Law		
+01.1	01	Medicine and Dentistry		
+01.2	01	Nursing and subjects and vocations allied to medicine		
+01.3	01	Health and social care		
+01.4	01	Public services		
+01.5	01	Child development and well-being		
+02.1	02	Science		
+02.2	02	Mathematics and statistics		
+03.1	03	Agriculture		
+03.2	03	Horticulture and forestry		
+03.3	03	Animal care and veterinary science		
+03.4	03	Environmental conservation		
+04.1	04	Engineering		
+04.2	04	Manufacturing technologies		
+04.3	04	Transportation operations and maintenance		
+05.1	05	Architecture		
+05.2	05	Building and construction		
+05.3	05	Urban, rural and regional planning		
+06.1	06	ICT practitioners		
+06.2	06	ICT for users		
+07.1	07	Retailing and wholesaling		
+07.2	07	Warehousing and distribution		
+07.3	07	Service enterprises		
+07.4	07	Hospitality and catering		
+08.1	08	Sport, leisure and recreation		
+08.2	08	Travel and tourism		
+09.1	09	Performing arts		
+09.2	09	Crafts, creative arts and design		
+09.3	09	Media and communication		
+09.4	09	Publishing and information services		
+10.1	10	History		
+10.2	10	Archaeology and archaeological sciences		
+10.3	10	Philosophy		
+10.4	10	Theology and religious studies		
+11.1	11	Geography		
+11.2	11	Sociology and social policy		
+11.3	11	Politics		
+11.4	11	Economics		
+11.5	11	Anthropology		
+12.1	12	Languages, literature and culture of the British Isles		
+12.2	12	Other languages, literature and culture		
+12.3	12	Linguistics		
+13.1	13	Teaching and lecturing		
+13.2	13	Direct learning support		
+14.1	14	Foundations for learning and life		
+14.2	14	Preparation for work		
+15.1	15	Accounting and finance		
+15.2	15	Administration		
+15.3	15	Business management		
+15.4	15	Marketing and sales		
+15.5	15	Law and legal services		

@@ -1,25 +1,26 @@
 qualification-type	name	start-date	end-date
-11	Advanced Extension Award		
-12	Basic Skills		
-13	End-Point Assessment		
-14	English For Speakers of Other Languages		
-15	Entry Level		
-16	Free Standing Mathematics Qualification		
-17	Functional Skills		
-18	Functional Skills (QCF)		
-19	GCE A Level		
-20	GCE AS Level		
-21	GCSE (9 to 1)		
-22	GCSE (A* to G)		
-23	General National Vocational Qualification		
-24	Higher Level		
-25	Key Skills		
-26	National Vocational Qualification		
-27	Occupational Qualification		
-28	Other General Qualification		
-29	Principal Learning		
-30	Project		
-31	QCF		
-32	VCE Advanced Subsidiary Level		
-33	Vocational Certificate Of Education		
-34	Vocationally-Related Qualification		
+AdvancedExtensionAward	Advanced Extension Award		
+EnglishOtherLanguages	English For Speakers of Other Languages		
+EntryLevel	Entry Level		
+FunctionalSkillsNqf	Functional Skills		
+GceALevel	GCE A Level		
+GceAsLevel	GCE AS Level		
+Gcse9To1	GCSE (9 to 1)		
+GeneralCertificateSecondaryEducation	GCSE (A* to G)		
+KeySkills	Key Skills		2017-08-04
+PrincipalLearning	Principal Learning		2017-08-04
+Project	Project		
+NotApplicable	Not Applicable		
+BasicSkills	Basic Skills		2017-08-04
+FunctionalSkillsQcf	Functional Skills (QCF)		2016-06-29
+FreeStandingMathematicsQualification	Free Standing Mathematics Qualification		
+GeneralNvq	General National Vocational Qualification		2017-08-04
+HigherLevel	Higher Level		
+Nvq	National Vocational Qualification		
+OtherGeneralQualification	Other General Qualification		
+OccupationalQualification	Occupational Qualification		
+QcfQualification	QCF		2016-06-29
+VocationalCertificate	Vocational Certificate Of Education		2017-08-04
+VocationalCertificateAdvanced	VCE Advanced Subsidiary Level		2017-08-04
+VocationalQualification	Vocationally-Related Qualification		
+EndPointAssessment	End-Point Assessment	2017-07-21	
