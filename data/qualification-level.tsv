@@ -1,17 +1,17 @@
-qualification-level	name	start-date	end-date
-EntryLevel	Entry Level		
-Entry1	Entry 1		
-Entry2	Entry 2		
-Entry3	Entry 3		
-Entry1_2	Entry 1,2		
-Entry2_3	Entry 2,3		
-Entry1_2_3	Entry 1,2,3		
-Level1	Level 1		
-Level1_2	Level 1/2		
-Level2	Level 2		
-Level3	Level 3		
-Level4	Level 4		
-Level5	Level 5		
-Level6	Level 6		
-Level7	Level 7		
-Level8	Level 8		
+qualification-level	name	qualification-level-eqf	start-date	end-date
+EntryLevel	Entry Level	None		
+Entry1	Entry 1	None		
+Entry2	Entry 2	None		
+Entry3	Entry 3	Level 1		
+Entry1_2	Entry 1,2	None		
+Entry2_3	Entry 2,3	None		
+Entry1_2_3	Entry 1,2,3	None		
+Level1	Level 1	Level 2		
+Level1_2	Level 1/2	Level 2/3		
+Level2	Level 2	Level 3		
+Level3	Level 3	Level 4		
+Level4	Level 4	Level 5		
+Level5	Level 5	Level 5		
+Level6	Level 6	Level 6		
+Level7	Level 7	Level 7		
+Level8	Level 8	Level 8		
